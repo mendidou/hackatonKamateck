@@ -1,4 +1,10 @@
 # hackatonKamateck
+
+
+this is the repo of the IOS App that i was in charge the full project is here : 
+- https://github.com/leonid1990/hackathon-kamatech-backend
+- https://github.com/leonid1990/hackathon-kamatech-frontend
+
 האקתון 2020 – קמאטק
 פתרון לקטיעת שרשראות הדבקה וחקירות אפידמיולוגיות מהירות בחללים סגורים
 הבעיה: בבתי רפואה נדרשים צוותי הרפואה לטפל בחולים שאינם חשודים כחולי קורונה בחללים סגורים דוגמת חדרי מיון
