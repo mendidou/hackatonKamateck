@@ -1,5 +1,6 @@
 # hackatonKamateck
 
+24H for this project
 
 this is the repo of the IOS App that i was in charge the full project is here : 
 - https://github.com/leonid1990/hackathon-kamatech-backend
